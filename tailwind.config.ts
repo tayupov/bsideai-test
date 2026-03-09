@@ -1,14 +1,1 @@
-import type { Config } from "tailwindcss";
-
-const config: Config = {
-  content: [
-    "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-};
-export default config;
+aW1wb3J0IHR5cGUgeyBDb25maWcgfSBmcm9tICJ0YWlsd2luZGNzcyI7Cgpjb25zdCBjb25maWc6IENvbmZpZyA9IHsKICBjb250ZW50OiBbCiAgICAiLi9zcmMvcGFnZXMvKiovKi57anMsdHMsanN4LHRzeCxtZHh9IiwKICAgICIuL3NyYy9jb21wb25lbnRzLyoqLyoue2pzLHRzLGpzeCx0c3gsbWR4fSIsCiAgICAiLi9zcmMvYXBwLyoqLyoue2pzLHRzLGpzeCx0c3gsbWR4fSIsCiAgXSwKICB0aGVtZTogewogICAgZXh0ZW5kOiB7fSwKICB9LAogIHBsdWdpbnM6IFtdLAp9OwpleHBvcnQgZGVmYXVsdCBjb25maWc7Cg==
