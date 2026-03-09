@@ -1,7 +1,1 @@
-export default function Home() {
-  return (
-    <div className="flex min-h-screen items-center justify-center">
-      <h1 className="text-2xl font-semibold">Welcome to Next.js</h1>
-    </div>
-  );
-}
+J3VzZSBjbGllbnQnOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHsKICBjb25zdCBic2lkZVZhcmlhbnQgPSB0eXBlb2Ygd2luZG93ICE9PSAndW5kZWZpbmVkJyA/IG5ldyBVUkxTZWFyY2hQYXJhbXMod2luZG93LmxvY2F0aW9uLnNlYXJjaCkuZ2V0KCdic2lkZV92YXJpYW50JykgOiBudWxsOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWluLWgtc2NyZWVuIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgIDxoMSBjbGFzc05hbWU9e2JzaWRlVmFyaWFudCA9PT0gJ3RyZWF0bWVudCcgPyAndGV4dC0yeGwgZm9udC1zZW1pYm9sZCB0ZXh0LXJlZC02MDAnIDogJ3RleHQtMnhsIGZvbnQtc2VtaWJvbGQnfT4KICAgICAgICBXZWxjb21lIHRvIE5leHQuanMKICAgICAgPC9oMT4KICAgIDwvZGl2PgogICk7Cn0=
