@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center">
-      <h1 className="text-2xl font-semibold">Welcome to Next.js</h1>
+      <h1 className="text-2xl font-semibold">My Test Application</h1>
     </div>
   );
 }
