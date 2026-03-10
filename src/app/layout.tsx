@@ -20,12 +20,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.className} antialiased`}>
-        <Script
+        {/* <Script
           src="https://bsideai.vercel.app/snippet.js"
           data-bside-project="0b5c73cf-609f-4f37-8e72-407640d0520d"
           data-bside-base="https://bsideai.vercel.app/"
           strategy="beforeInteractive"
-        />
+        /> */}
         {children}
       </body>
     </html>
